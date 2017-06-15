@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OneEx</string>
+    <string name="title_activity_fab_ex">FabActivityEx</string>
+    <string name="title_activity_tab_layout">TabLayoutActivity</string>
+    <string name="title_activity_tablayout">TablayoutActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>

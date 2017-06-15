@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_title">
+        <item>FabActivityEx</item>
+        <item>TablayoutActivity</item>
+        <item>CardActivity</item>
+    </string-array>
+
+    <string-array name="list_cls">
+        <item>FabActivityEx</item>
+        <item>tablayout.TablayoutActivity</item>
+        <item>recycler_cardview.CardActivity</item>
+    </string-array>
+</resources>
